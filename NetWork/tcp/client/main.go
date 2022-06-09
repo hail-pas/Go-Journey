@@ -1,7 +1,7 @@
 package main
 
 import (
-	"Go-Journey/tcp/pkg"
+	"Go-Journey/NetWork/tcp/pkg"
 	"fmt"
 	"net"
 )
